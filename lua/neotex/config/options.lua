@@ -63,7 +63,7 @@ function M.setup()
 
     -- EDIT
     spell = true,                   -- turns on spellchecker
-    spelllang = { 'en_us' },        -- sets spelling dictionary
+    spelllang = { 'de_de' },        -- sets spelling dictionary
     clipboard = "unnamedplus",      -- allows neovim to access the system clipboard
     mouse = "a",                    -- allow the mouse to be used in neovim
     mousefocus = true,              -- window focus follows mouse pointer (enables hover scrolling)
